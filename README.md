@@ -29,6 +29,7 @@ Diseñamos diferentes historias-retos a partir de dos grandes áreas (comunicaci
 ## ÍNDICE
 
 **1.1 Presentación**
+
 - [Coherencia de la solución con el reto planteado](#coherencia-de-la-soluci%C3%B3n-con-el-reto-planteado)
 - [Claridad de la solución](#claridad-de-la-soluci%C3%B3n)
 - [Calidad y organización de los diagramas de la solución](#calidad-y-organizaci%C3%B3n-de-los-diagramas-de-la-soluci%C3%B3n)
@@ -43,13 +44,15 @@ Diseñamos diferentes historias-retos a partir de dos grandes áreas (comunicaci
 * [Limitantes de la solución](#limitantes-de-la-soluci%C3%B3n)
   
 **1.3 Originalidad e impacto**
+
 * [Creatividad y grado de innovación de la solución](#creatividad-y-grado-de-innovaci%C3%B3n-de-la-soluci%C3%B3n)
 * [Nivel de escala del impacto](#nivel-de-escala-del-impacto)
 * [Viabilidad del impacto](#viabilidad-del-impacto)
 
 ***
 
-**2.1 **Funcionalidad****
+**2.1 **Funcionalidad***
+
 * [Funcionalidad a partir de diagramas funcionales](#funcionalidad-a-partir-de-diagramas-funcionales)
 * [Funcionalidad a partir de Video o bocetos demostrativos en su caso](#funcionalidad-a-partir-de-video-o-bocetos-demostrativos-en-su-caso)
 * [Descripción del perfil de usuarios](#descripci%C3%B3n-del-perfil-de-usuarios)
@@ -96,7 +99,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 
 
 
-## Alcance de la solución en usuarios potenciales
+### Alcance de la solución en usuarios potenciales
 
 - Estadística que defina que tan grande es nuestro mercado. 
     - Número de dispositivos vendidos en México en tendencia. 
@@ -104,7 +107,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
     - Familias que tengan dispositivo de voz
 
 
-## Sustento de la aplicación
+### Sustento de la aplicación
 
 - Cómo resuelve la necesidad de reforzar el conocimiento
 - Por qué es un juego
@@ -114,7 +117,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 
 ## **1.2 Capacidad Tecnológica**
 
-## Complejidad técnica
+### Complejidad técnica
   
 - Qué necesitas?
 - Qué tan difícil es programar esto?
@@ -130,7 +133,7 @@ Para desarrollar "Skills" dentro de Amazon Echo, es necesiario tener conocimient
     
 
 
-## Viabilidad técnica
+### Viabilidad técnica
 
 - Se puede o no se puede hacer
 
@@ -139,50 +142,49 @@ Para desarrollar "Skills" dentro de Amazon Echo, es necesiario tener conocimient
 Lista de ejemplos
 
 
-## Capacidad del equipo de trabajo
+### Capacidad del equipo de trabajo
 
 
-## Limitantes de la solución
+### Limitantes de la solución
 
 ## **1.3 Originalidad e impacto**
 
-## Creatividad y grado de innovación de la solución
+### Creatividad y grado de innovación de la solución
 
+### Nivel de escala del impacto
 
-## Nivel de escala del impacto
-
-## Viabilidad del impacto
+### Viabilidad del impacto
 
 ***
 
 ## **2.1 **Funcionalidad****
 
-## Funcionalidad a partir de diagramas funcionales
+### Funcionalidad a partir de diagramas funcionales
 
-## Funcionalidad a partir de Video o bocetos demostrativos en su caso
+### Funcionalidad a partir de Video o bocetos demostrativos en su caso
 
-## Descripción del perfil de usuarios
+### Descripción del perfil de usuarios
 
-## Facilidad de uso
+### Facilidad de uso
 
-**2.2 Arquitectura tecnológica**
+## **2.2 Arquitectura tecnológica**
 
-## Plataformas tecnológicas a utilizar
+### Plataformas tecnológicas a utilizar
 
-## Mayor limitante tecnológica y su estrategia de solución
+### Mayor limitante tecnológica y su estrategia de solución
 
-## Originalidad de la integración tecnológica
+### Originalidad de la integración tecnológica
 
-## Metodologías de desarrollo a utilizar
+### Metodologías de desarrollo a utilizar
 
-## Complejidad de los diseño
+### Complejidad de los diseño
 
-**2.3 Valores agregados**
+## **2.3 Valores agregados**
 
-## Portabilidad
+### Portabilidad
 
-## Conectividad
+### Conectividad
 
-## Seguridad
+### Seguridad
 
-## Interacción e integración con otras tecnologías, aplicaciones o plataformas
+### Interacción e integración con otras tecnologías, aplicaciones o plataformas
