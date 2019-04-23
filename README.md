@@ -1,4 +1,4 @@
-**Preámbulo**
+## **Preámbulo**
 
 Alrededor del mundo más de 265 millones de niños y niñas no están escolarizados, y aquellos que asiten a la escuela carecen muchas veces de conocimientos básicos de lectura y artimética (ONU, s.f.).
 
@@ -8,7 +8,7 @@ Bajo este panorama, si no buscamos una solución distinta para abordar esta prob
 
 **¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología?**
 
-**SKILL: "EL MUNDO DE AVENTRA"**
+## **SKILL: "EL MUNDO DE AVENTRA"**
 
 Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa), que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas. Disponible para los diferentes dispositivos "Echo" de Amazon.
 
@@ -17,6 +17,8 @@ Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa]
 Hemos diseñado las diferentes historias-retos a partir de dos grandes áreas (comunicación y lenguaje) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
 
 ***
+
+## ÍNDICE
 
 **1.1 Presentación**
 - [Coherencia de la solución con el reto planteado](#coherencia-de-la-soluci%C3%B3n-con-el-reto-planteado)
