@@ -53,7 +53,14 @@ Alrededor del mundo más de 265 millones de niños y niñas no están escolariza
 
 Solución:
 
-Nuestra propuesta es desarrollar una Alexa skill que, a través del juego, contribuya a que más niños y niñas puedan desarrollar la competencia lectora, matemática y científica. Los “jugadores” (niños y niñas de entre los 9 y 12 años de edad), entrarán a un mundo de retos...
+Aventra, es la Alexa skill que hemos diseñado para que, a través del juego, contribuya a que más niños y niñas puedan reforzar sus competencias en la comuncación y el pensamiento lógico matemático. Los “jugadores” (niños y niñas de entre los 9 y 12 años de edad), entrarán a un mundo fantástico que los invitará a hacer uso de las matemáticas y el lenguaje para encontrar soluciones a los distintos retos planteados.
+
+Hemos diseñado las diferentes historias-retos a partir de las dos grandes áreas (comunicación y lenguaje y matemáticas) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
+
+
+(TABLA DE LOS CONTENIDOS)
+
+
 
 
 
