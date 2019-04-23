@@ -12,9 +12,13 @@ Bajo este panorama, si no buscamos una solución distinta para abordar esta prob
 
 **¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología?**
 
+***
+
 ## **AMAZON SKILL: "EL MUNDO DE AVENTRA"**
 
-Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa), que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas. Disponible para los diferentes dispositivos "Echo" de Amazon.
+Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa), que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas. 
+
+Disponible para los diferentes dispositivos "Echo" de Amazon.
 
 > Aventra, tu guía personal, te ayudará a tomar decisiones mientras cruzas diferentes reinos, conoces a múltiples personajes de fantasía y resuelves los grandes misterios que este mundo aguarda.
 
@@ -33,41 +37,44 @@ Diseñamos diferentes historias-retos a partir de dos grandes áreas (comunicaci
 
 **1.2 Capacidad Tecnológica**
 
-* [Complejidad técnica](#complejidad-tecnica)
-* [Viabilidad técnica]()
-* [Capacidad del equipo de trabajo]()
-* [Limitantes de la solución]()
+* [Complejidad técnica](#complejidad-t%C3%A9cnica)
+* [Viabilidad técnica](#viabilidad-t%C3%A9cnica)
+* [Capacidad del equipo de trabajo](#capacidad-del-equipo-de-trabajo)
+* [Limitantes de la solución](#limitantes-de-la-soluci%C3%B3n)
   
 **1.3 Originalidad e impacto**
-* [Creatividad y grado de innovación de la solución]()
-* [Nivel de escala del impacto]()
-* [Viabilidad del impacto]()
+* [Creatividad y grado de innovación de la solución](#creatividad-y-grado-de-innovaci%C3%B3n-de-la-soluci%C3%B3n)
+* [Nivel de escala del impacto](#nivel-de-escala-del-impacto)
+* [Viabilidad del impacto](#viabilidad-del-impacto)
 
 ***
 
 **2.1 **Funcionalidad****
-* [Funcionalidad a partir de diagramas funcionales]()
-* [Funcionalidad a partir de Video o bocetos demostrativos en su caso]()
-* [Descripción del perfil de usuarios]()
-* [Facilidad de uso]()
+* [Funcionalidad a partir de diagramas funcionales](#funcionalidad-a-partir-de-diagramas-funcionales)
+* [Funcionalidad a partir de Video o bocetos demostrativos en su caso](#funcionalidad-a-partir-de-video-o-bocetos-demostrativos-en-su-caso)
+* [Descripción del perfil de usuarios](#descripci%C3%B3n-del-perfil-de-usuarios)
+* [Facilidad de uso](#facilidad-de-uso)
 
 **2.2 Arquitectura tecnológica**
 
-* [Plataformas tecnológicas a utilizar]()
-* [Mayor limitante tecnológica y su estrategia de solución]()
-* [Originalidad de la integración tecnológica]()
-* [Metodologías de desarrollo a utilizar]()
-* [Complejidad de los diseño]()
+* [Plataformas tecnológicas a utilizar](#plataformas-tecnol%C3%B3gicas-a-utilizar)
+* [Mayor limitante tecnológica y su estrategia de solución](#mayor-limitante-tecnol%C3%B3gica-y-su-estrategia-de-soluci%C3%B3n)
+* [Originalidad de la integración tecnológica](#originalidad-de-la-integraci%C3%B3n-tecnol%C3%B3gica)
+* [Metodologías de desarrollo a utilizar](#metodolog%C3%ADas-de-desarrollo-a-utilizar)
+* [Complejidad de los diseño](#complejidad-de-los-dise%C3%B1o)
 
 **2.3 Valores agregados**
 
-* [Portabilidad]()
-* [Conectividad]()
-* [Seguridad]()
-* [Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
+* [Portabilidad](#portabilidad)
+* [Conectividad](#conectividad)
+* [Seguridad](#seguridad)
+* [Interacción e integración con otras tecnologías, aplicaciones o plataformas](#interacci%C3%B3n-e-integraci%C3%B3n-con-otras-tecnolog%C3%ADas-aplicaciones-o-plataformas)
 
+***
 
-## Coherencia de la solución con el reto planteado
+## **1.1 Presentación**
+
+### Coherencia de la solución con el reto planteado
 
 // Escribir el reto planteado. El reto pide que se desarrolle...
 
@@ -78,14 +85,14 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 // Aprovechamos la tendencia de la inclusión de los dispositivos de voz a los hogares y por el otro lado a la gran necesidad que tenemos en educación
 
 
-## Claridad de la solución
+### Claridad de la solución
 
 // Explicamos el producto. Es un skill que hace esto.
 
 // Describir cómo funciona el skill (ejemplo)
 
 
-## Calidad y organización de los diagramas de la solución
+### Calidad y organización de los diagramas de la solución
 
 
 
