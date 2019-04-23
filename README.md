@@ -1,4 +1,4 @@
-## Preámbulo
+**Preámbulo**
 
 Alrededor del mundo más de 265 millones de niños y niñas no están escolarizados, y aquellos que asiten a la escuela carecen muchas veces de conocimientos básicos de lectura y artimética (ONU, s.f.).
 
@@ -8,65 +8,57 @@ Bajo este panorama, si no buscamos una solución distinta para abordar esta prob
 
 **¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología?**
 
-# SKILL: "EL MUNDO DE AVENTRA"
+**SKILL: "EL MUNDO DE AVENTRA"**
 
-_Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa) que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas.
+Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa), que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas. Disponible para los diferentes dispositivos "Echo" de Amazon.
 
 > Aventra, tu guía personal, te ayudará a tomar decisiones mientras cruzas diferentes reinos, conoces a múltiples personajes de fantasía y resuelves los grandes misterios que este mundo aguarda.
 
-Hemos diseñado las diferentes historias-retos a partir de las dos grandes áreas (comunicación y lenguaje y matemáticas) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
+Hemos diseñado las diferentes historias-retos a partir de dos grandes áreas (comunicación y lenguaje) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
 
-Estará disponible para los diferentes dispositivos "Echo" de Amazon.
-
-## Índice
+***
 
 **1.1 Presentación**
-
-* [Coherencia de la solución con el reto planteado](#coherencia-de-la-solución-con-el-reto-planteado)
-* [Claridad de la solución](#claridad-de-la-solución)
-* [Calidad y organización de los diagramas de la solución](#calidad-y-organizacion-de-los-diagramas-de-la-solucion)
-* [Alcance de la solución en usuarios potenciales](#alcance-de-la-solucion-en-usuarios-potenciales)
-* [Sustento de la aplicación](#sustento-de-la-aplicación)
+- [Coherencia de la solución con el reto planteado](#coherencia-de-la-soluci%C3%B3n-con-el-reto-planteado)
+- [Claridad de la solución](#claridad-de-la-soluci%C3%B3n)
+- [Calidad y organización de los diagramas de la solución](#calidad-y-organizaci%C3%B3n-de-los-diagramas-de-la-soluci%C3%B3n)
+- [Alcance de la solución en usuarios potenciales](#alcance-de-la-soluci%C3%B3n-en-usuarios-potenciales)
+- [Sustento de la aplicación](#sustento-de-la-aplicaci%C3%B3n)
 
 **1.2 Capacidad Tecnológica**
 
 * [Complejidad técnica](#complejidad-tecnica)
-* [2. Viabilidad técnica]()
-* [3. Capacidad del equipo de trabajo]()
-* [4. Limitantes de la solución]()
+* [Viabilidad técnica]()
+* [Capacidad del equipo de trabajo]()
+* [Limitantes de la solución]()
   
 **1.3 Originalidad e impacto**
-* [1. Creatividad y grado de innovación de la solución]()
-* [2. Nivel de escala del impacto]()
-* [3. Viabilidad del impacto]()
+* [Creatividad y grado de innovación de la solución]()
+* [Nivel de escala del impacto]()
+* [Viabilidad del impacto]()
 
 ***
 
 **2.1 **Funcionalidad****
-* [1. Funcionalidad a partir de diagramas funcionales]()
-* [2. Funcionalidad a partir de Video o bocetos demostrativos en su caso]()
-* [3. Descripción del perfil de usuarios]()
-* [4. Facilidad de uso]()
+* [Funcionalidad a partir de diagramas funcionales]()
+* [Funcionalidad a partir de Video o bocetos demostrativos en su caso]()
+* [Descripción del perfil de usuarios]()
+* [Facilidad de uso]()
 
 **2.2 Arquitectura tecnológica**
 
-* [1. Plataformas tecnológicas a utilizar]()
-* [2. Mayor limitante tecnológica y su estrategia de solución]()
-* [3. Originalidad de la integración tecnológica]()
-* [4. Metodologías de desarrollo a utilizar]()
-* [5. Complejidad de los diseño]()
+* [Plataformas tecnológicas a utilizar]()
+* [Mayor limitante tecnológica y su estrategia de solución]()
+* [Originalidad de la integración tecnológica]()
+* [Metodologías de desarrollo a utilizar]()
+* [Complejidad de los diseño]()
 
 **2.3 Valores agregados**
 
-* [1. Portabilidad]()
-* [2. Conectividad]()
-* [3. Seguridad]()
-* [4. Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
-
-
-
-(TABLA DE LOS CONTENIDOS)
-
+* [Portabilidad]()
+* [Conectividad]()
+* [Seguridad]()
+* [Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
 
 
 ## Coherencia de la solución con el reto planteado
@@ -80,18 +72,18 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 // Aprovechamos la tendencia de la inclusión de los dispositivos de voz a los hogares y por el otro lado a la gran necesidad que tenemos en educación
 
 
-* [2. Claridad de la solución](#)
+## Claridad de la solución
 
 // Explicamos el producto. Es un skill que hace esto.
 
 // Describir cómo funciona el skill (ejemplo)
 
 
-* [3. Calidad y organización de los diagramas de la solución]()
+## Calidad y organización de los diagramas de la solución
 
 
 
-* [4. Alcance de la solución en usuarios potenciales](#)
+## Alcance de la solución en usuarios potenciales
 
 - Estadística que defina que tan grande es nuestro mercado. 
     - Número de dispositivos vendidos en México en tendencia. 
@@ -99,7 +91,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
     - Familias que tengan dispositivo de voz
 
 
-* [5. Sustento de la aplicación](#)
+## Sustento de la aplicación
 
 - Cómo resuelve la necesidad de reforzar el conocimiento
 - Por qué es un juego
@@ -109,7 +101,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 
 **1.2 Capacidad Tecnológica**
 
-* [1. Complejidad técnica]()
+## Complejidad técnica
   
 - Qué necesitas?
 - Qué tan difícil es programar esto?
@@ -125,7 +117,7 @@ Para desarrollar "Skills" dentro de Amazon Echo, es necesiario tener conocimient
     
 
 
-* [2. Viabilidad técnica]()
+## Viabilidad técnica
 
 - Se puede o no se puede hacer
 
@@ -134,49 +126,48 @@ Para desarrollar "Skills" dentro de Amazon Echo, es necesiario tener conocimient
 Lista de ejemplos
 
 
-* [3. Capacidad del equipo de trabajo]()
+## Capacidad del equipo de trabajo
 
 
-* [4. Limitantes de la solución]()
-
-
-
+## Limitantes de la solución
 
 **1.3 Originalidad e impacto**
-* [1. Creatividad y grado de innovación de la solución]()
+
+## Creatividad y grado de innovación de la solución
 
 
-* [2. Nivel de escala del impacto]()
-* [3. Viabilidad del impacto]()
+## Nivel de escala del impacto
+
+## Viabilidad del impacto
 
 **2.1 **Funcionalidad****
-* [1. Funcionalidad a partir de diagramas funcionales]()
-* [2. Funcionalidad a partir de Video o bocetos demostrativos en su caso]()
-* [3. Descripción del perfil de usuarios]()
-* [4. Facilidad de uso]()
+
+## Funcionalidad a partir de diagramas funcionales
+
+## Funcionalidad a partir de Video o bocetos demostrativos en su caso
+
+## Descripción del perfil de usuarios
+
+## Facilidad de uso
 
 **2.2 Arquitectura tecnológica**
 
-* [1. Plataformas tecnológicas a utilizar]()
-* [2. Mayor limitante tecnológica y su estrategia de solución]()
-* [3. Originalidad de la integración tecnológica]()
-* [4. Metodologías de desarrollo a utilizar]()
-* [5. Complejidad de los diseño]()
+## Plataformas tecnológicas a utilizar
+
+## Mayor limitante tecnológica y su estrategia de solución
+
+## Originalidad de la integración tecnológica
+
+## Metodologías de desarrollo a utilizar
+
+## Complejidad de los diseño
 
 **2.3 Valores agregados**
 
-* [1. Portabilidad]()
-* [2. Conectividad]()
-* [3. Seguridad]()
-* [4. Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
+## Portabilidad
 
+## Conectividad
 
+## Seguridad
 
-
-Recursos:
-
-[www.un.org](https://www.un.org/sustainabledevelopment/es/education/)
-
-[Pisa](https://www.oecd.org/pisa/PISA-2015-Mexico-ESP.pdf)
-
-[El pais](https://elpais.com/internacional/2016/06/30/mexico/1467249933_704190.html)
+## Interacción e integración con otras tecnologías, aplicaciones o plataformas
