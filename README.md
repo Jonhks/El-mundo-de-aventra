@@ -112,7 +112,7 @@ El reto, vinculado con los objetivos de desarrollo sostenible de las Naciones Un
 - Cómo es bisne
 
 
-**1.2 Capacidad Tecnológica**
+## **1.2 Capacidad Tecnológica**
 
 ## Complejidad técnica
   
@@ -144,7 +144,7 @@ Lista de ejemplos
 
 ## Limitantes de la solución
 
-**1.3 Originalidad e impacto**
+## **1.3 Originalidad e impacto**
 
 ## Creatividad y grado de innovación de la solución
 
@@ -153,7 +153,9 @@ Lista de ejemplos
 
 ## Viabilidad del impacto
 
-**2.1 **Funcionalidad****
+***
+
+## **2.1 **Funcionalidad****
 
 ## Funcionalidad a partir de diagramas funcionales
 
