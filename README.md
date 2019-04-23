@@ -44,9 +44,9 @@
 * [3. Seguridad]()
 * [4. Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
 
-# NOMBRE APLICACIÓN
+# AVENTRA 
 
-La educación en México se encuentra en una condición desafortunada: según los resultados de la prueba realizada por Pisa en el 2015, éste se encuentra por debajo del promedio de los demás países de la OCDE en ciencias, lectura y matemáticas por 416, 423 y 408 puntos respectivamente. Tan solo el 1% de los estudiantes logra alcanzar el nivel de excelencia en las competencias evaluadas en esta prueba (OCDE, 2016). 
+Alrededor del mundo más de 265 millones de nios y niñas no están escolarizados, y aquellos que asiten a la escuela carecen muchas veces de conocimientos básicos de lectura y artimética (ONU, s.f.). La situación de la educación en México en este contexto se encuentra en una condición desafortunada: según los resultados de la prueba de Pisa del 2015, tan solo el 1% de los estudiantes logró alcanzar el nivel de excelencia en las competencias matemáticas, científicas y de lectura; en estas tres áreas, México se encuentra por debajo del promedio de los demás países de la OCDE (OCDE, 2016). Bajo este panorama, será difícil asegurar que para el 2030 hayamos cumplido con el 4to objetivo del desarrollo sostenible: alcanzar una educación de calidad. 
 
 ¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología? 
 
@@ -59,5 +59,6 @@ Nuestra propuesta es desarrollar una Alexa skill que, a través del juego, contr
 
 
 Recursos:
+https://www.un.org/sustainabledevelopment/es/education/
 https://www.oecd.org/pisa/PISA-2015-Mexico-ESP.pdf
 https://elpais.com/internacional/2016/06/30/mexico/1467249933_704190.html
