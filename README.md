@@ -1,6 +1,6 @@
 # NOMBRE APLICACIÓN
 
-La situación de la educación en México se encuentra una condición desafortunada: según los resultados de la prueba realizada por Pisa en el 2015, éste se encuentra por debajo del promedio de los demás países de la OCDE en ciencias, lectura y matemáticas por 416, 423 y 408 puntos respectivamente. Tan solo el 1% de los estudiantes logra alcanzar el nivel de excelencia en las competencias evaluadas en esta prueba (OCDE, 2016). 
+La educación en México se encuentra en una condición desafortunada: según los resultados de la prueba realizada por Pisa en el 2015, éste se encuentra por debajo del promedio de los demás países de la OCDE en ciencias, lectura y matemáticas por 416, 423 y 408 puntos respectivamente. Tan solo el 1% de los estudiantes logra alcanzar el nivel de excelencia en las competencias evaluadas en esta prueba (OCDE, 2016). 
 
 Por otro lado, llama la atención que para los años de aplicación de la prueba, México era uno de los países de la OCDE que mayor porcentaje (5,2%) del PIB destinaban a la educación pública, del cual gran parte se destinaba al pago de nóminas a maestros (El País, 2016). ...
 
