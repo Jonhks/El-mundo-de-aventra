@@ -174,6 +174,9 @@ Lista de ejemplos
 
 
 Recursos:
-https://www.un.org/sustainabledevelopment/es/education/
-https://www.oecd.org/pisa/PISA-2015-Mexico-ESP.pdf
-https://elpais.com/internacional/2016/06/30/mexico/1467249933_704190.html
+
+[www.un.org](https://www.un.org/sustainabledevelopment/es/education/)
+
+[Pisa](https://www.oecd.org/pisa/PISA-2015-Mexico-ESP.pdf)
+
+[El pais](https://elpais.com/internacional/2016/06/30/mexico/1467249933_704190.html)
