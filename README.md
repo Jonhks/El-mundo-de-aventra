@@ -1,10 +1,24 @@
-## AVENTRA
+## Preámbulo
 
-Skill para Amazon Alexa que permite vivir una aventura narrada resolviendo retos. 
+Alrededor del mundo más de 265 millones de niños y niñas no están escolarizados, y aquellos que asiten a la escuela carecen muchas veces de conocimientos básicos de lectura y artimética (ONU, s.f.).
+
+La situación de la educación en México, **en este contexto**, se encuentra en una condición desafortunada: según los resultados de la prueba de Pisa del 2015, tan solo el 1% de los estudiantes logró alcanzar el nivel de excelencia en las competencias matemáticas, científicas y de lectura; en estas tres áreas, México se encuentra por debajo del promedio de los demás países de la OCDE (OCDE, 2016). 
+
+Bajo este panorama, si no buscamos una solución distinta para abordar esta problemática, será difícil asegurar que para el 2030 hayamos cumplido con el 4to objetivo del desarrollo sostenible: alcanzar una educación de calidad. 
+
+**¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología?**
+
+# SKILL: "EL MUNDO DE AVENTRA"
+
+_Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa) que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas.
+
+> Aventra, tu guía personal, te ayudará a tomar decisiones mientras cruzas diferentes reinos, conoces a múltiples personajes de fantasía y resuelves los grandes misterios que este mundo aguarda.
+
+Hemos diseñado las diferentes historias-retos a partir de las dos grandes áreas (comunicación y lenguaje y matemáticas) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
+
+Estará disponible para los diferentes dispositivos "Echo" de Amazon.
 
 ## Índice
-
-* [Preámbulo](#preámbulo)
 
 **1.1 Presentación**
 
@@ -49,16 +63,6 @@ Skill para Amazon Alexa que permite vivir una aventura narrada resolviendo retos
 * [3. Seguridad]()
 * [4. Interacción e integración con otras tecnologías, aplicaciones o plataformas.]()
 
-# AVENTRA 
-
-Alrededor del mundo más de 265 millones de niños y niñas no están escolarizados, y aquellos que asiten a la escuela carecen muchas veces de conocimientos básicos de lectura y artimética (ONU, s.f.). La situación de la educación en México en este contexto, se encuentra en una condición desafortunada: según los resultados de la prueba de Pisa del 2015, tan solo el 1% de los estudiantes logró alcanzar el nivel de excelencia en las competencias matemáticas, científicas y de lectura; en estas tres áreas, México se encuentra por debajo del promedio de los demás países de la OCDE (OCDE, 2016). Bajo este panorama, si no buscamos una solución distinta para abordar esta problemática, será difícil asegurar que para el 2030 hayamos cumplido con el 4to objetivo del desarrollo sostenible: alcanzar una educación de calidad. 
-
-¿Cómo hacer para contribuir a mejorar la calidad de la educacion en México con ayuda de la tecnología? 
-
-
-Aventra, es la Alexa skill que hemos diseñado para que, a través del juego, contribuya a que más niños y niñas puedan reforzar sus competencias en la comuncación y el pensamiento lógico matemático. Los “jugadores” (niños y niñas de entre los 9 y 12 años de edad), entrarán a un mundo fantástico que los invitará a hacer uso de las matemáticas y el lenguaje para encontrar soluciones a los distintos retos planteados.
-
-Hemos diseñado las diferentes historias-retos a partir de las dos grandes áreas (comunicación y lenguaje y matemáticas) que se han incluido en la prueba Planea Educación Básica realizada para el 2018, coordinada por La Secretaría de Educación Pública (SEP), el Instituto Nacional para la Evaluación de la Educación (INEE) y las autoridades educativas de las entidades federativas.  
 
 
 (TABLA DE LOS CONTENIDOS)
