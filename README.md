@@ -1,5 +1,5 @@
 
-![El Mundo de Aventra](https://github.com/Jonhks/El-mundo-de-aventra/blob/master/docs/Aventra_logo-02.jpg?raw=true)
+![El Mundo de Aventra](https://user-images.githubusercontent.com/47608352/56623658-d158d500-65fa-11e9-9c4f-2ff557eb292f.jpg)
 
 
 ## ÍNDICE
