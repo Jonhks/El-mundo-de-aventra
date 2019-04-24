@@ -69,7 +69,7 @@ Bajo este panorama, si no buscamos una solución distinta para abordar esta prob
 
 ***
 
-## **AMAZON SKILL: "EL MUNDO DE AVENTRA"**
+### **AMAZON SKILL: "EL MUNDO DE AVENTRA"**
 
 Es un juego de aventuras interactivo, diseñado como _Skill_ para [Amazon Alexa](https://developer.amazon.com/es/alexa), que te permite vivir una aventura narrada, resolviendo retos de competencia científica y lingüísticas. 
 
