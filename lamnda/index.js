@@ -10,24 +10,46 @@ const LaunchRequestHandler = {
         const speechText = 'Rivendel es la capital de un reino mágico, gobernado por el rey Voliber, es un Oso enorme, con colmillos más grandes que los dedos de tu mano, tiene la capacidad de controlar los rayos eléctricos a su voluntad y es conocido por su gran poder. El rey Voliber ha dicho esta mañana que tiene escondido un tesoro en la isla de Noxus que sólo podrá encontrar la persona más valiente y hábil que supere una serie de retos. Para esta aventura cuentas con una poción de vida y una espada. Decides adentrarte en esta aventura y partes rumbo al bosque. Despues de días caminando te encuentras con una puerta enorme y tocas para que te abran. Se asoma un ogro enorme y te dice con voz molesta. Si quieres pasar necesito 2 cosas. Primero ¿Cual es tu nombre?...';
         return handlerInput.responseBuilder
             .speak(speechText)
-            .withSimpleCard('Nutrición Inteligente')
+            .withSimpleCard('null')
             .reprompt(' ¿Cual es tu nombre?')
             .getResponse();
     }
 };
+
+
+const NameIntent = {
+    canHandle(handlerInput) {
+        return handlerInput.requestEnvelope.request.type === 'IntentRequest'
+            && handlerInput.requestEnvelope.request.intent.name === 'NameIntent';
+    },
+    handle(handlerInput) {
+        const request = handlerInput.requestEnvelope.request;
+        var name = request.intent.slots.name.value;
+        const speechOutput = `Hola ${name}`;
+
+        return handlerInput.responseBuilder
+            .speak(`${speechOutput}`)
+            .reprompt('¿qué mas necesitas?')
+            .getResponse();
+    }
+};
+
+
 const HolaMundoIntentHandler = {
     canHandle(handlerInput) {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
             && handlerInput.requestEnvelope.request.intent.name === 'HolaMundoIntent';
     },
     handle(handlerInput) {
-        const speechText = '{name}, Muy bien ahora necesito que me respondas una pregunta. ¿Cuúanto es uno mas uno?';
+        const speechText = '{nombre}. Bien,  ahora necesito que me respondas una pregunta. ¿Porque no te mueres?';
         return handlerInput.responseBuilder
             .speak(speechText)
             //.reprompt('agrega un texto de reprompt si deseas dejar la sesión abierta para que el usuario responda. No olvide cerrar con una pregunta. ¿Cómo te puedo ayudar?')
             .getResponse();
     }
 };
+
+
 const HelpIntentHandler = {
     canHandle(handlerInput) {
         return handlerInput.requestEnvelope.request.type === 'IntentRequest'
@@ -107,6 +129,10 @@ exports.handler = Alexa.SkillBuilders.custom()
     .addRequestHandlers(
         LaunchRequestHandler,
         HolaMundoIntentHandler,
+        NameIntent,
+        HelpIntentHandler,
+        CancelAndStopIntentHandler,
+        SessionEndedRequestHandler,
         IntentReflectorHandler) // Asegúrate de que el IntentReflector sea el último para evitar que maneje peticiones incorrectas
     .addErrorHandlers(
         ErrorHandler)
