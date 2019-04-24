@@ -71,6 +71,10 @@ Por otro lado, recordemos que ya existen otras aplicaciones en el mercado americ
 
 En México se prevé que para 2023 [se utilizarán 8,000 millones de asistentes de voz digitales](https://www.forbes.com.mx/asistentes-de-voz-el-nuevo-enlace-hombre-maquina/), en comparación con los 2,5000 millones que se estimaron hasta 2018.
 
+Hemos desarrollado un primer diagrama de flujo que explica cómo vamos a desarrollar el "script".
+
+![Flujo](https://user-images.githubusercontent.com/25328635/56621765-5c35d180-65f3-11e9-8d9f-5d3f1d246af5.jpg)
+
 ***
 
 ## **2.1 **Funcionalidad****
