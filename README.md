@@ -1,3 +1,7 @@
+
+![El Mundo de Aventra](https://github.com/Jonhks/El-mundo-de-aventra/blob/master/docs/Aventra_logo-02.jpg?raw=true)
+
+
 ## ÍNDICE
 
 **1.1 Presentación**
