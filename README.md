@@ -80,9 +80,16 @@ Hemos desarrollado un primer diagrama de flujo que explica cómo vamos a desarro
 ## **2.1 **Funcionalidad****
 
 
-
 ## **2.2 Arquitectura tecnológica**
 
+El desarrollo del "skill" está vinculado bajo una arquitectura con Frontend, Backend y base de datos.
 
-## **2.3 Valores agregados**
+Utilizaremos para construirla:
+
+- APL (Frontend)
+- AWS Lambda (Backend)
+- DynamoDB (Base de datos)
+
+![Arquitectura](https://user-images.githubusercontent.com/25328635/56621765-5c35d180-65f3-11e9-8d9f-5d3f1d246af5.jpg)
+
 
