@@ -46,6 +46,8 @@ Disponible para los diferentes dispositivos "Echo" de Amazon.
 
 Diseñamos diferentes historias-retos a partir de dos grandes áreas (comunicación y lenguaje) que se han incluido en la prueba _Planea Educación Básica_ realizada para el 2018, coordinada por la **Secretaría de Educación Pública (SEP)**, el **Instituto Nacional para la Evaluación de la Educación (INEE)** y las **autoridades educativas de las entidades federativas**.
 
+![User Persona](https://user-images.githubusercontent.com/47608352/56623594-7a530000-65fa-11e9-9ebb-e9ff08cf06e3.jpg)
+
 ## **1.2 Capacidad Tecnológica**
 
 Para desarrollar "Skills" dentro de Amazon Echo, es necesario tener conocimientos relacionados con:
