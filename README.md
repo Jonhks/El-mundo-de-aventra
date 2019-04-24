@@ -78,9 +78,9 @@ Hemos desarrollado un primer diagrama de flujo en el siguiente link que explica 
 
 ## **2.1 **Funcionalidad****
 
-Uno de los pasos fundamentales para el desarrollo de la aplicación son los **"Utterances"**, referidos al script del proyecto.
+Uno de los pasos fundamentales para el desarrollo de la aplicación son los **"Utterances"** y los **Intents**, referidos al script del proyecto.
 
-Los "Utterances" son declaraciones e instrucciones que permiten la interacción con el usuario. 
+> Los **"Intents"** son las acciones que le voy a permitir a hacer al usuario y los **"Utterances"** son las expresiones que podrá usar el usuario para invocar las acciones.
 
 [Utterances](https://www.icloud.com/numbers/0EHUKwC-jkvaAAtmJ5LNX148Q#Utterances)
 
