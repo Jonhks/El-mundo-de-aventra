@@ -1,0 +1,40 @@
+{
+    "type": "APL",
+    "version": "1.0",
+    "theme": "dark",
+    "import": [],
+    "resources": [],
+    "styles": {},
+    "layouts": {},
+    "mainTemplate": {
+        "items": [
+            {
+                "type": "Frame",
+                "backgroundColor": "black",
+                "item": {
+                    "type": "Container",
+                    "height": "100vh",
+                    "width": "100vw",
+                    "direction": "column",
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "items": [
+                        {
+                            "type": "Text",
+                            "text": "Mundo Aventra"
+                        },
+                        {
+                            "type": "Text",
+                            "text": "¡Aventuras que cambian"
+                        },
+                        {
+                            "type": "Text",
+                            "text": "vidas!"
+                        }
+                    ]
+                }
+            }
+            
+        ]
+    }
+}
