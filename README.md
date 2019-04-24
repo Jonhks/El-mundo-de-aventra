@@ -57,15 +57,13 @@ Para desarrollar "Skills" dentro de Amazon Echo, es necesario tener conocimiento
 - Diseño de los diagramas de flujo y scripts
 - Diseño de la interfaz de voz (VUI)
     
-- Se puede o no se puede hacer
+Nuestro equipo cuenta con las diferentes habilidades para desarrollar "Skills" dentro de Amazon.
 
-- Otras aplicaciones en el mercado americano ya están funcionando bajo estos modelos de educación.
-
-Lista de ejemplos
-
-
+Por otro lado, recordemos que ya existen otras aplicaciones en el mercado americano y ya están funcionando bajo estos [modelos de educación.](https://medium.com/@justinbrooke/10-alexa-skills-every-gamer-born-in-the-80s-will-love-558209d8a92e)
 
 ## **1.3 Originalidad e impacto**
+
+Hemos construido diferentes historias de usuario
 
 
 ***
