@@ -12,7 +12,7 @@
 
 ***
 
-**2.1 **Funcionalidad***
+**2.1 Funcionalidad**
 
 **2.2 Arquitectura tecnológica**
 
