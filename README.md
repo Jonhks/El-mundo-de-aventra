@@ -74,7 +74,10 @@ En México se prevé que para 2023 [se utilizarán 8,000 millones de asistentes 
 
 Hemos desarrollado un primer diagrama de flujo en el siguiente link que explica cómo vamos a desarrollar el "script".
 
-![Flujo](https://user-images.githubusercontent.com/25328635/56621765-5c35d180-65f3-11e9-8d9f-5d3f1d246af5.jpg)
+![Flujo](https://user-images.githubusercontent.com/47608352/56624627-40d0c380-65ff-11e9-9c93-4653a3080f22.jpg)
+![Flujo2](https://user-images.githubusercontent.com/47608352/56624660-62ca4600-65ff-11e9-91ad-e87f0bd3c06c.jpg)
+![Flujo3](https://user-images.githubusercontent.com/47608352/56624671-72498f00-65ff-11e9-8b2f-e41a91f40df4.jpg)
+![Flujo4](https://user-images.githubusercontent.com/47608352/56624673-78d80680-65ff-11e9-9e27-4ae811585174.jpg)
 
 ***
 
