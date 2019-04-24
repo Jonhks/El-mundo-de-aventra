@@ -93,5 +93,5 @@ Utilizaremos para construirla:
 - AWS Lambda (Backend)
 - DynamoDB (Base de datos)
 
-
+![Arquitectura](https://user-images.githubusercontent.com/1256678/56624609-37475b80-65ff-11e9-9814-b8e8a2168da6.png)
 
