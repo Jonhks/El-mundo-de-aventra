@@ -63,6 +63,10 @@ Nuestro equipo cuenta con las diferentes habilidades para desarrollar "Skills" d
 
 Por otro lado, recordemos que ya existen otras aplicaciones en el mercado americano y ya están funcionando bajo estos [modelos de educación.](https://medium.com/@justinbrooke/10-alexa-skills-every-gamer-born-in-the-80s-will-love-558209d8a92e)
 
+
+![Utterances](https://www.icloud.com/numbers/0EHUKwC-jkvaAAtmJ5LNX148Q#Utterances)
+
+
 ## **1.3 Originalidad e impacto**
 
 En México se prevé que para 2023 [se utilizarán 8,000 millones de asistentes de voz digitales](https://www.forbes.com.mx/asistentes-de-voz-el-nuevo-enlace-hombre-maquina/), en comparación con los 2,5000 millones que se estimaron hasta 2018.
