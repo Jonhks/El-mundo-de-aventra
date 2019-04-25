@@ -13,12 +13,6 @@ const LaunchRequestHandler = {
             .speak(speechText)
             .withSimpleCard('null')
             .reprompt('Perdona, no entiendo. ¿Puedes decirme algo como: Me llamo Alexa?')
-             .addDirective({
-                type: 'Alexa.Presentation.APL.RenderDocument',
-                version: '1.0',
-                document: require('./welcome.json'),
-                datasources: {}
-            })
             .addDirective({
                 type: 'Alexa.Presentation.APL.RenderDocument',
                 version: '1.0',
@@ -31,13 +25,13 @@ const LaunchRequestHandler = {
                         "image": {
                             "sources": [
                             {
-                                "url": "https://imagizer.imageshack.com/img921/9514/VYsjwX.jpg",
+                                "url": "https://imagizer.imageshack.com/img921/2457/ihYPyA.png",
                                 "size": "small",
                                 "widthPixels": 0,
                                 "heightPixels": 0
                             },
                             {
-                                "url": "https://imagizer.imageshack.com/img921/9514/VYsjwX.jpg",
+                                "url": "https://imagizer.imageshack.com/img924/9002/mI3iv4.png",
                                 "size": "large",
                                 "widthPixels": 0,
                                 "heightPixels": 0
@@ -45,11 +39,10 @@ const LaunchRequestHandler = {
                             ]
                         },
                         "logoUrl": "",
-                        "hintText": "Try, \"mundo aventra\""
+                        "hintText": "Try, \"Mundo aventra\""
                     }
                 }
             })
-
             .getResponse();
     }
 };
@@ -65,10 +58,43 @@ const NameIntent = {
         const speechOutput = `Hola ${name}.  ¿Quieres iniciar un nuevo juego, o continuar una partida existente?`;
         return handlerInput.responseBuilder
             .speak(`${speechOutput}`)
-            .reprompt(' Disculpa, no entendi eso. ¿Podrías intentarlo de nuevo?')
+            .reprompt(' Disculpa, no he podido encontrar una partida guardada. ¿Qué quieres hacer?')
+            .addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                version: '1.0',
+                document: require('./view.json'),
+                datasources: {
+                    "bodyTemplate7Data": {
+                        "type": "object",
+                        "objectId": "bt7Sample",
+                        "title": "Mundo de Aventra",
+                        "image": {
+                            "sources": [
+                            {
+                                "url": "https://imagizer.imageshack.com/img924/8425/BXmqhq.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://imagizer.imageshack.com/img923/2360/zqUK8D.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                            ]
+                        },
+                        "logoUrl": "",
+                        "hintText": "Try, \"Mundo aventra\""
+                    }
+                }
+            })
+
             .getResponse();
     }
 };
+
+
 
 const NewGameIntent = {
     canHandle(handlerInput) {
@@ -76,13 +102,40 @@ const NewGameIntent = {
             && handlerInput.requestEnvelope.request.intent.name === 'NewGameIntent';
     },
     handle(handlerInput) {
-        const speechOutput = `Aventra es un reino mágico gobernado por el rey Voliber. Él
-ha dicho que tiene escondido un tesoro en la isla de Nóxus,
-que sólo el aventurero más valiente y más hábil podrá
-encontrar. ¿Quieres sumarte a esta aventura?`;
+        const speechOutput = `Aventra es un reino mágico gobernado por la familia real Voliber. Ellos te han dicho que tienen escondido un tesoro en la isla de Noxús, que sólo las personas más valientes y más hábiles podrán encontrar... ¿Quieres sumarte a esta aventura?`;
         return handlerInput.responseBuilder
             .speak(speechOutput)
             .reprompt(' ¿Quieres sumarte ?')
+            .addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                version: '1.0',
+                document: require('./view.json'),
+                datasources: {
+                    "bodyTemplate7Data": {
+                        "type": "object",
+                        "objectId": "bt7Sample",
+                        "title": "Mundo de Aventra",
+                        "image": {
+                            "sources": [
+                            {
+                                "url": "https://imagizer.imageshack.com/img921/517/X9V4Vq.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://imagizer.imageshack.com/img921/517/X9V4Vq.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                            ]
+                        },
+                        "logoUrl": "",
+                        "hintText": "Try, \"Mundo aventra\""
+                    }
+                }
+            })
             .getResponse();
     }
 };
@@ -95,11 +148,40 @@ const AceptAdventureIntent = {
             && handlerInput.requestEnvelope.request.intent.name === 'AceptAdventureIntent';
     },
     handle(handlerInput) {
-        const speechOutput = `Bien, el Rey Voliber te ha confiado la búsqueda del tesoro. Para esta aventura te ha designado como capitán del barco y te ha dado cien monedas para tu viaje.....Mar adentro te encuentras con un grupo de
-cinco piratas que han detenido tu navegación, la única forma de continuar es negociando. Te piden dos monedas a cada pirata que te ha atacado ¿Cuántas monedas en total debes darles?`;
+        const speechOutput = `Bien, la familia Voliber te ha confiado la búsqueda del tesoro. Para esta aventura te ha designado un barco, una tripulación para capitanear y cien monedas para tu viaje..Mar adentro te encuentras con un grupo de cinco piratas que han detenido tu navegación, la única forma de continuar es negociando. Ofreces dos monedas a cada pirata que te ha atacado ¿Cuántas monedas en total debes darles?`;
         return handlerInput.responseBuilder
             .speak(speechOutput)
             .reprompt(' ¿Cuantas?')
+             .addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                version: '1.0',
+                document: require('./view.json'),
+                datasources: {
+                    "bodyTemplate7Data": {
+                        "type": "object",
+                        "objectId": "bt7Sample",
+                        "title": "Mundo de Aventra",
+                        "image": {
+                            "sources": [
+                            {
+                                "url": "https://imagizer.imageshack.com/img921/7476/m39RZX.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://imagizer.imageshack.com/img924/7729/5oEnfe.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                            ]
+                        },
+                        "logoUrl": "",
+                        "hintText": "Try, \"Mundo aventra\""
+                    }
+                }
+            })
             .getResponse();
     }
 };
@@ -117,11 +199,41 @@ const FirstChallengeIntentHandler = {
         const speechText = `<speak>
             Gracias a tu habilidad de negociación los piratas te han dejado pasar y has llegado a la isla. 
             En el puerto te encuentras a un espíritu que está haciendo guardia. 
-            <voice name="Conchita"> Valiente ${nombre} has logrado evadir a los piratas.</voice> 
-            <voice name="Conchita"> Por tu valentía te daré una poción que te ayudará en tu camino, ¿De qué isla provienes y quien te envía?</voice>
+            <voice name="Enrique"> Valiente ${nombre}, haz logrado evadir a los piratas.</voice> 
+            <voice name="Enrique"> Por tu valentía te daré una poción que te ayudará en tu camino, ¿De qué isla provienes y quien te envía?</voice>
         </speak>`;
         return handlerInput.responseBuilder
             .speak(speechText)
+            .addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                version: '1.0',
+                document: require('./view.json'),
+                datasources: {
+                    "bodyTemplate7Data": {
+                        "type": "object",
+                        "objectId": "bt7Sample",
+                        "title": "Mundo de Aventra",
+                        "image": {
+                            "sources": [
+                            {
+                                "url": "https://imagizer.imageshack.com/img924/6436/Fvwl3S.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://imagizer.imageshack.com/img923/2154/8DAwOB.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                            ]
+                        },
+                        "logoUrl": "",
+                        "hintText": "Try, \"Mundo aventra\""
+                    }
+                }
+            })
             .getResponse();
     }
 };
@@ -137,11 +249,42 @@ const WhoSendsYouIntentHandler = {
         const sessionAttributes = attributesManager.getSessionAttributes() || {};
         const nombre = sessionAttributes.hasOwnProperty('name') ? sessionAttributes.year : 'aprendíz';
         const speechText = `<speak>
-            <voice name="Conchita">Puedes continuar tu camino pero tendrás que decidir cuidadosamente porque esto podría cambiar el rumbo de toda tu aventura.</voice>
-            Eliges seguir el camino del sendero, el cual es largo y empinado, o ir por el camino de la meseta en donde encontrarás un cañon muy profundo y un puente colgante. ¿Qué camino quieres elegir? 
+            <voice name="Enrique">Puedes continuar tu camino pero tendrás que decidir cuidadosamente porque esto podría cambiar el rumbo de toda tu aventura.</voice>
+            Eliges seguir el camino del sendero, el cual es largo y empinado, o ir por el camino de la meseta en donde encontrarás un cañon muy profundo y un puente colgante. ¿Qué camino quieres elegir? ...
+            Si quieres seguir con está aventura. Descarga la skill en Amazon muy pronto!!
         </speak>`;
         return handlerInput.responseBuilder
             .speak(speechText)
+             .addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                version: '1.0',
+                document: require('./view.json'),
+                datasources: {
+                    "bodyTemplate7Data": {
+                        "type": "object",
+                        "objectId": "bt7Sample",
+                        "title": "Mundo de Aventra",
+                        "image": {
+                            "sources": [
+                            {
+                                "url": "https://imagizer.imageshack.com/img924/5447/XpL2Es.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://imagizer.imageshack.com/img921/5213/s1PWuU.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                            ]
+                        },
+                        "logoUrl": "",
+                        "hintText": "Try, \"Mundo aventra\""
+                    }
+                }
+            })
             .getResponse();
     }
 };
